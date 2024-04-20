@@ -30,3 +30,6 @@ cd /workspace/tmp
 
 
 ### HTTPS
+```sh
+git clone https://github.com/Alorell31/workspaces.git
+```
